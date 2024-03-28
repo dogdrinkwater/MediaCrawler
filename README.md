@@ -15,7 +15,7 @@
 
 爬虫技术交流群：[949715256](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=NFz-oY7Pek3gpG5zbLJFHARlB8lKL94f&authKey=FlxIQK99Uu90wddNV5W%2FBga6T6lXU5BRqyTTc26f2P2ZK5OW%2BDhHp7MwviX%2BbrPa&noverify=0&group_code=949715256)，同时欢迎大家贡献代码提交PR
 
-我新开的爬虫教程仓库 [CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) 主打一个免费.
+我新开的爬虫教程仓库 [CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) ,刚兴趣的可以来关注一下，主打一个免费实用.
 
 ## 感谢下列Sponsors对本仓库赞助
 <a href="https://dashboard.ipcola.com/register?referral_code=vkybwyucyuidpne">全球ip代理超新星</a>
