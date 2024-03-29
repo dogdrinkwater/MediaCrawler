@@ -1,7 +1,7 @@
 # 基础配置
 PLATFORM = "xhs"
-KEYWORDS = "python,golang"
-LOGIN_TYPE = "qrcode"  # qrcode or phone or cookie
+KEYWORDS = "skims"
+LOGIN_TYPE = "cookie"  # qrcode or phone or cookie
 COOKIES = ""
 SORT_TYPE="popularity_descending" # 具体值参见media_platform.xxx.field下的枚举值，展示只支持小红书
 CRAWLER_TYPE = "search"
@@ -19,7 +19,7 @@ HEADLESS = True
 SAVE_LOGIN_STATE = True
 
 # 数据保存类型选项配置,支持三种类型：csv、db、json
-SAVE_DATA_OPTION = "json" # csv or db or json
+SAVE_DATA_OPTION = "db" # csv or db or json
 
 # 用户浏览器缓存的浏览器文件配置
 USER_DATA_DIR = "%s_user_data_dir"  # %s will be replaced by platform name
